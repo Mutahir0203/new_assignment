@@ -1,0 +1,34 @@
+#van{
+    margin-top:-10px;
+}
+#text{
+    margin-left:600px;
+}
+#card1{
+    border:1.8px solid rgb(78, 77, 77);
+}
+#wid{
+    background-color: midnightblue;
+}
+
+#var{
+    background-color: midnightblue;
+    color:white;
+}
+
+
+@media only screen and (max-width: 600px) {
+    #car{
+        margin-left:-590px;
+        width:260px;
+    }
+    #printallcites{
+        margin-top:10px;
+    }
+    #table{
+        margin-top:10px;
+    }
+    #card{
+        margin-top:10px;
+    }
+}
